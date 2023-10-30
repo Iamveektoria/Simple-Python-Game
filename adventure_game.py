@@ -30,6 +30,7 @@ def game_program():
     # Players weapons
     weapons = []
 
+    ## 
     # Prints messages slower by 2 seconds.
     def print_pause(message):
         print(message)
