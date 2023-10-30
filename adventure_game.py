@@ -3,7 +3,7 @@ import time
 import random
 
 
-# Everything about the game play is in this function.
+# Everything about the game play is in this functiosn.
 def game_program():
 
     # A list of possible attackers selected at random!
